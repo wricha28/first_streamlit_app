@@ -1,7 +1,7 @@
 import streamlit
 streamlit.title('my parents new healthy dinner')
 streamlit.title('Breakfast Menu')
-print('omega 3 & blueberry oatmeal')
+streamlit.write('omega 3 & blueberry oatmeal')
           
 
 
